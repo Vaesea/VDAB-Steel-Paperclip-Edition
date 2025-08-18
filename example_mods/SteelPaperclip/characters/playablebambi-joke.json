@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-5, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MARCELLO idle dance"
+		},
+		{
+			"offsets": [29, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MARCELLO NOTE LEFT"
+		},
+		{
+			"offsets": [-20, -19],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MARCELLO NOTE DOWN"
+		},
+		{
+			"offsets": [-24, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MARCELLO NOTE UP"
+		},
+		{
+			"offsets": [-24, -1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MARCELLO NOTE RIGHT"
+		},
+		{
+			"offsets": [30, 6],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MARCELLO MISS LEFT"
+		},
+		{
+			"offsets": [-19, -18],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MARCELLO MISS DOWN"
+		},
+		{
+			"offsets": [-25, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MARCELLO MISS UP"
+		},
+		{
+			"offsets": [-24, 2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MARCELLO MISS RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bambi-old",
+	"position": [40, 380],
+	"healthicon": "jokebambi",
+	"flip_x": true,
+	"healthbar_colors": [102, 255, 51],
+	"camera_position": [100, 20],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

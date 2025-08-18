@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [8, -10],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [-20, -26],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [20, 45],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [-62, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bamber_farm_beta_man",
+	"position": [80, 460],
+	"healthicon": "bambiold",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [10, 20],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
