@@ -12,9 +12,9 @@ Everyone who worked on Psych Engine (Psych Engine... obviously)
 
 Your Average FNF Pro (Dialogue "Music" from VS Stev)
 
-https://gamebanana.com/tuts/ 17332 (Wavy Background) (will be added)
+https://gamebanana.com/tuts/ 17332 (Wavy Background)
 
-https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script) (will be added)
+https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
 
 https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event) (will be added)
 
