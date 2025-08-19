@@ -5,12 +5,6 @@
 	"weekBackground": "",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hideStoryMode": true,
 	"songs": [
 		[
 			"blue",
@@ -47,8 +41,23 @@
 				80,
 				255
 			]
+		],
+		[
+			"dimension",
+			"dave3d",
+			[
+				255,
+				193,
+				215
+			]
 		]
 	],
-	"weekName": "Week 9",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 9"
 }
