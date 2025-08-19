@@ -1,4 +1,11 @@
 {
+	"storyName": "Old Times",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"old",
@@ -19,7 +26,7 @@
 			]
 		],
 		[
-			"world",
+			"3d",
 			"dave3d",
 			[
 				255,
@@ -28,18 +35,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "dave",
-	"difficulties": "Normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Old Times",
-	"weekName": "Week 1",
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 1"
 }
