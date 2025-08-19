@@ -1,0 +1,159 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dave",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1133,
+		379
+	],
+	"stageUI": "",
+	"girlfriend": [
+		731,
+		391
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": -59,
+			"y": -861,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/sky_sunset",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.75,
+				0.75
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 225,
+			"y": 125,
+			"scale": [
+				1.25,
+				1.25
+			],
+			"image": "backgrounds/yard/hills",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "hills",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 200,
+			"y": 125,
+			"scale": [
+				1.25,
+				1.25
+			],
+			"image": "backgrounds/yard/gate",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "gates",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 225,
+			"y": 165,
+			"scale": [
+				1.25,
+				1.25
+			],
+			"image": "backgrounds/yard/grass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "grass",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -846,
+			"y": -943,
+			"scale": [
+				3000,
+				3000
+			],
+			"filters": 3,
+			"color": "3b1e08",
+			"angle": 0,
+			"name": "overlay",
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.4,
+			"type": "square"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		624,
+		377
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

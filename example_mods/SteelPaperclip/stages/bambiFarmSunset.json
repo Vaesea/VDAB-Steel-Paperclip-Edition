@@ -1,0 +1,250 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/backgrounds/sky_sunset": 3,
+		"images/backgrounds/farm/crazy fences": 3,
+		"images/backgrounds/farm/orangey hills": 3,
+		"images/backgrounds/farm/Sign": 3,
+		"images/backgrounds/farm/Cornys": 3,
+		"images/backgrounds/farm/grass lands": 3,
+		"images/backgrounds/farm/funfarmhouse": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "bambi",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		979,
+		139
+	],
+	"stageUI": "",
+	"girlfriend": [
+		610,
+		161
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": -490,
+			"y": -127,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/sky_sunset",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.4,
+				0.4
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -250,
+			"y": 200,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/orangey hills",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "hills",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 250,
+			"y": 323,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/funfarmhouse",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "farmhouse",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -400,
+			"y": 600,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/grass lands",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "foreground",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1098,
+			"y": 374,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/Cornys",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "corn2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -50,
+			"y": 373,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/Cornys",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "corn1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -130,
+			"y": 491,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/crazy fences",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fence",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 191,
+			"y": 530,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/Sign",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sign",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -784,
+			"y": -915,
+			"scale": [
+				3100,
+				3100
+			],
+			"filters": 3,
+			"color": "3B1E08",
+			"angle": 0,
+			"name": "overlay",
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.4,
+			"type": "square"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		405,
+		123
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}
